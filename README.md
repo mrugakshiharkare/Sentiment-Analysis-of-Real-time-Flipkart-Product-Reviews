@@ -12,11 +12,11 @@ Customer feedback is a goldmine for e-commerce growth. This project implements a
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.x
-* **Libraries:** * `Pandas` & `NumPy` (Data Manipulation)
+* **Libraries:**  `Pandas` & `NumPy` (Data Manipulation)
     * `NLTK` / `TextBlob` / `VADER` (Natural Language Processing)
     * `Scikit-learn` (Machine Learning Models)
     * `Matplotlib` & `Seaborn` (Data Visualization)
-* **Environment:** Jupyter Notebook / VS Code
+* **Environment:** VS Code
 
 ## 🧠 Key Features
 
