@@ -54,4 +54,4 @@ Customer feedback is a goldmine for e-commerce growth. This project implements a
 * Identified key product pain points through negative review word clouds.
 
 ---
-Developed as part of my Data Science and AI/ML practice.
+
